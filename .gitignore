@@ -1,0 +1,12 @@
+# Ignore the outputs directory
+outputs/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore other generated files
+*.log
+*.gif
+*.pth
